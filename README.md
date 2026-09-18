@@ -9,7 +9,6 @@ This project is a relational database for an online perfume shop. I decided to g
 
 The database saves customer data, orders, also brands and perfumes which includes perfume stock. Now it is all made with MariaDB.
 
-- Video explaining: []
 - Report is in canvas
 
 ## Files
